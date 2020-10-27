@@ -15,17 +15,17 @@ https://github.com/mukeshkumargupta/java-j2ee-projects-demo/tree/master/spring-b
 If you want to create your own microservice using spring boot. You may refer this project. There are three microservices i.e. movie catalog service, 
 movie info service and ratings data service are created to explain the things. Please refer  project link to know how each service interact with each other.
 
-https://github.com/mukeshkumargupta/java-j2ee-projects-demo/tree/master/spring-cloud-stream-example-master Using this project demo, it is explained how to use spring cloud stream. Here like any messaging queue service you can easily change like Kafka or RabbitMQ by changing configuration, there is no need to change of major code change if you decided to change your messaging queue service.
+https://github.com/mukeshkumargupta/java-j2ee-projects-demo/tree/master/spring-cloud-stream-example-master Using this project demo, it is explained how to use spring cloud stream. Here like any messaging queue service you can easily change like Kafka or RabbitMQ by changing configuration, there is no need to change of major code if you decided to change your messaging queue service.
 
 https://github.com/mukeshkumargupta/java-j2ee-projects-demo/tree/master/java-interview-questions-answers Here all Java fundamentals are explained.
 
 https://github.com/mukeshkumargupta/data-structure-algorithms-java-tutorials/tree/master/src/com/interview/systemdesign
-There are many standard problems which we need to know, I tried to document those standard industry system design practice which are required when you are going to design and architech your project.
+There are many standard problems which we need to know, I tried to document those standard industry system design practice which are required when you are going to design and architech project.
 
 https://github.com/mukeshkumargupta/data-structure-algorithms-java-tutorials/tree/master/src/com/interview/designpatterns
-There are many stand design patterns. There are 22+ design pattern. Knowing which design pattern will be effective in which project use case problem. I tried to address by giving example Java code for most of the design pattern. 
+There are many stand design patterns. There are 22+ design pattern. Knowing which design pattern will be effective for use case problem. I tried to address by giving example Java code for most of the design patterns. 
 
 https://github.com/mukeshkumargupta/data-structure-algorithms-java-tutorials
-Knowing all algorithms and writting code for each are dificult so I tried to solve as much as problem and make library of those algorithms which can be directly used in our project usecase. Still many are missing but I tried to cover as much as possible. it is also true that, I am not getting much time of solving problem rather focusing most of our time on system design. it is keep on going.... . lets see how much I can be up to date on this part.
+Knowing all algorithms and writting code for each are dificult so I tried to solve as much as problem and make library of those algorithms which can be directly used in project usecase. Still many are missing but I tried to cover as much as possible. It is also true that, I am not getting much time of solving problem rather focusing most of our time on system design. It is keep on going.... . lets see how much I can be up to date on this part.
 
 https://github.com/mukeshkumargupta/python-ml-projects-demo Here I tried to learn python by using ML. Thisd is how I learn any language by doing project. I have hands on experince. I did a lot but not got much time to document those things. Just basic I tried to document things here. I will update once I will get time.
