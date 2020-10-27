@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**mukeshkumargupta/MukeshKumarGupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 These are the area where I have worked. Please find project poc demo which I created before working on actual projects. 
 ### Java J2EE Projects Demo
 https://github.com/mukeshkumargupta/java-j2ee-projects-demo/tree/master/design-online-shopping-cart
