@@ -4,12 +4,12 @@ These are the area where I have worked. Please find project poc demo which I cre
 ### Projects Demo
 
 https://github.com/mukeshkumargupta/java-j2ee-projects-demo/tree/master/design-online-shopping-cart
-This is an online shopping project using SpringMVC, Hibernate, Maven, Angular JS and Bootstrap. This project is done Step By Step. For more in details refer link: https://github.com/mukeshkumargupta/java-j2ee-tutorials/blob/master/design-online-shopping-cart/Project_Steps.txt.
+This is an online shopping project using ###SpringMVC, ###Hibernate, ###Maven, Angular JS and ###Bootstrap. This project is done Step By Step. For more in details refer link: https://github.com/mukeshkumargupta/java-j2ee-tutorials/blob/master/design-online-shopping-cart/Project_Steps.txt.
 
 https://github.com/mukeshkumargupta/java-j2ee-projects-demo/tree/master/design-users-profile-using-rest-apis-with-jax-rs
-Under this project user will able to submit his profile. Any user can send message to other user. Any user can comment on message(May be in future Like Vs Dislike on message as well as on comments can be implemented). Here Profile post/get/delete, message post/get/delete and comment post/get and delete are handled using REST API. For more details please refer the project.
+Under this project advance concept of ###REST are tried to used. user will able to submit his profile. Any user can send message to other user. Any user can comment on message(May be in future Like Vs Dislike on message as well as on comments can be implemented). Here Profile ###post/get/delete, message post/get/delete and comment post/get and delete are handled using REST API. For more details please refer the project.
 
-https://github.com/mukeshkumargupta/java-j2ee-projects-demo/tree/master/spring-boot-kafka-example-master Using Spring boot, kafka producer and consumer is created. How to produce messages from command line and consume those messages from kafka consumer using spring boot and vice versa. Most of things are covered to start kafka based project using spring boot. To get details on code level, please refer the project link.
+https://github.com/mukeshkumargupta/java-j2ee-projects-demo/tree/master/spring-boot-kafka-example-master Using ###Spring boot, kafka producer and consumer is created. How to produce messages from command line and consume those messages from kafka consumer using spring boot and vice versa. Most of things are covered to start kafka based project using spring boot. To get details on code level, please refer the project link.
 
 https://github.com/mukeshkumargupta/java-j2ee-projects-demo/tree/master/spring-boot-microservices-workshop-master
 If you want to create your own microservice using spring boot. You may refer this project. There are three microservices i.e. movie catalog service, 
