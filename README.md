@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-These are the area where I have worked. Please find project poc demo which I created before working on actual projects. 
+I have a passion for learning and sharing my knowledge with others as much as possible. Please find project poc demo which I created before working on actual projects. It may not upto date but I will try to keep…
+
 ### Projects Demo (POC)
 
 ### Tags: SpringMVC, Hibernate, Maven and Bootstrap
