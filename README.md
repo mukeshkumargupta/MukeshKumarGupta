@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 These are the area where I have worked. Please find project poc demo which I created before working on actual projects. 
-### Projects Demo
+### Projects Demo (POC)
 
 ### Tags: SpringMVC, Hibernate, Maven and Bootstrap
 https://github.com/mukeshkumargupta/java-j2ee-projects-demo/tree/master/design-online-shopping-cart
