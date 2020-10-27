@@ -4,6 +4,5 @@ These are the area where I have worked. Please find project poc demo which I cre
 ### Java J2EE Projects Demo
 
 https://github.com/mukeshkumargupta/java-j2ee-projects-demo/tree/master/design-online-shopping-cart
-
 This is an online shopping project using SpringMVC, Hibernate, Maven, Angular JS and Bootstrap. This project is done Step By Step. For more in details refer link: https://github.com/mukeshkumargupta/java-j2ee-tutorials/blob/master/design-online-shopping-cart/Project_Steps.txt.
 
