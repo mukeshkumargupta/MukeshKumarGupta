@@ -12,8 +12,12 @@ This is an online shopping project using SpringMVC, Hibernate, Maven, Angular JS
 https://github.com/mukeshkumargupta/java-j2ee-projects-demo/tree/master/design-users-profile-using-rest-apis-with-jax-rs
 Under this project advance concept of REST are tried to used. user will able to submit his profile. Any user can send message to other user. Any user can comment on message(May be in future Like Vs Dislike on message as well as on comments can be implemented). Here Profile post/get/delete, message post/get/delete and comment post/get and delete are handled using REST API. For more details please refer the project.
 
-### Tags: Kafka, Spring Boot
+### Tags: Kafka, Spark, Spring Boot, Spring Batch
 https://github.com/mukeshkumargupta/java-j2ee-projects-demo/tree/master/spring-boot-kafka-example-master Using Spring boot, kafka producer and consumer is created. How to produce messages from command line and consume those messages from kafka consumer using spring boot and vice versa. Most of things are covered to start kafka based project using spring boot. To get details on code level, please refer the project link.
+
+https://github.com/mukeshkumargupta/java-j2ee-projects-demo/tree/master/spring-batch-example-1-master Spring Boot with Spring Batch Example 1, Load CSV to DB http://localhost:8081/load - Trigger point for Spring Batch, http://localhost:8081/h2-console - H2 Console for querying the in-memory tables.
+
+https://github.com/mukeshkumargupta/java-j2ee-projects-demo/tree/master/spark-java-example-master It is all about running Spark in Java.
 
 ### Tags: Docker, Kubernetes
 https://github.com/mukeshkumargupta/docker-projects-demo This is basic of docker. Here it is learned how to create image, use it.
@@ -24,6 +28,9 @@ https://github.com/mukeshkumargupta/kubernetes-projects-demo It is all about pro
 https://github.com/mukeshkumargupta/java-j2ee-projects-demo/tree/master/spring-boot-microservices-workshop-master
 If you want to create your own microservice using spring boot. You may refer this project. There are three microservices i.e. movie catalog service, 
 movie info service and ratings data service are created to explain the things. Please refer  project link to know how each service interact with each other.
+
+https://github.com/mukeshkumargupta/java-j2ee-projects-demo/tree/master/stock-price-viewer-microservices-part1-master
+If you want to create your own microservice using spring boot. You may refer this project. In this Part, we covered the below microservices: db-service - For interactive with MySQL DB, stock-service - For pulling Stock Price from YahooFinance API eureka-service - Service Registry for registering all microservices
 
 ### Tags: Spring Cloud Stream
 https://github.com/mukeshkumargupta/java-j2ee-projects-demo/tree/master/spring-cloud-stream-example-master Using this project demo, it is explained how to use spring cloud stream. Here like any messaging queue service you can easily change like Kafka or RabbitMQ by changing configuration, there is no need to change of major code if you decided to change your messaging queue service.
