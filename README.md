@@ -46,7 +46,7 @@ There are many standard problems which we need to know, I tried to document thos
 https://github.com/mukeshkumargupta/data-structure-algorithms-java-tutorials/tree/master/src/com/interview/designpatterns
 There are many standard design patterns. There are 22+ design pattern. Knowing which design pattern will be effective for use case problem. I tried to learn by example Java code for most of the design patterns. 
 
-### Tags: DS & Algo
+### Tags: DS & Algo (Leetcode Profile: https://leetcode.com/mukesh_gupta85/)
 https://github.com/mukeshkumargupta/data-structure-algorithms-java-tutorials
 Knowing all algorithms and writting code for each are dificult so I tried to solve as much as problem and make library of those algorithms which can be directly used in project usecase. Still many are missing but I tried to cover as much as possible. It is also true that, I am not getting much time of solving problem rather focusing most of our time on system design. It is keep on going.... . lets see how much I can be up to date on this part.
 
