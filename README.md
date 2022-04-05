@@ -29,6 +29,15 @@ https://github.com/mukeshkumargupta/java-j2ee-projects-demo/tree/master/spring-b
 If you want to create your own microservice using spring boot. You may refer this project. There are three microservices i.e. movie catalog service, 
 movie info service and ratings data service are created to explain the things. Please refer  project link to know how each service interact with each other.
 
+https://github.com/mukeshkumargupta/java-j2ee-projects-demo/tree/master/microservice-eureka-zuul-turbine-docker-project-demo
+Sample of a Microservice setup for my book. Based on Spring Cloud / Netflix / Java / Docker / Docker Compose / Docker Machine / Vagrant
+
+https://github.com/mukeshkumargupta/java-j2ee-projects-demo/tree/master/microservice-consul-master
+Sample of a Microservice setup for my book ported to Consul / Apache httpd. Based on Spring Cloud / Netflix / Java / Docker / Docker Compose / Docker Machine
+
+https://github.com/mukeshkumargupta/java-j2ee-projects-demo/tree/master/microservice-kubernetes-master
+Microservices example using Kubernetes
+
 https://github.com/mukeshkumargupta/java-j2ee-projects-demo/tree/master/stock-price-viewer-microservices-part1-master
 If you want to create your own microservice using spring boot. You may refer this project. In this Part, we covered the below microservices: db-service - For interactive with MySQL DB, stock-service - For pulling Stock Price from YahooFinance API eureka-service - Service Registry for registering all microservices
 
