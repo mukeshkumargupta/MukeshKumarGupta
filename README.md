@@ -5,24 +5,26 @@ I have a passion for learning and sharing my knowledge with others as much as po
 ### Projects Demo (POC)
 
 ### Tags: SpringMVC, Hibernate, Maven and Bootstrap
-https://github.com/mukeshkumargupta/java-j2ee-projects-demo/tree/master/design-online-shopping-cart
+[https://github.com/mukeshkumargupta/java-j2ee-projects-demo/tree/master/design-online-shopping-cart](https://github.com/mukeshkumargupta/java-j2ee-projects-demo)
 This is an online shopping project using SpringMVC, Hibernate, Maven, Angular JS and Bootstrap. This project is done Step By Step. For more in details refer link: https://github.com/mukeshkumargupta/java-j2ee-tutorials/blob/master/design-online-shopping-cart/Project_Steps.txt.
 
-### Tags: REST
+### Tags: REST, GRPC
 https://github.com/mukeshkumargupta/java-j2ee-projects-demo/tree/master/design-users-profile-using-rest-apis-with-jax-rs
 Under this project advance concept of REST are tried to used. user will able to submit his profile. Any user can send message to other user. Any user can comment on message(May be in future Like Vs Dislike on message as well as on comments can be implemented). Here Profile post/get/delete, message post/get/delete and comment post/get and delete are handled using REST API. For more details please refer the project.
 
-### Tags: Kafka, Spark, Spring Boot, Spring Batch
-https://github.com/mukeshkumargupta/java-j2ee-projects-demo/tree/master/spring-boot-kafka-example-master Using Spring boot, kafka producer and consumer is created. How to produce messages from command line and consume those messages from kafka consumer using spring boot and vice versa. Most of things are covered to start kafka based project using spring boot. To get details on code level, please refer the project link.
+https://github.com/mukeshkumargupta/java-j2ee-projects-demo/tree/master/grpc Using GRPC 30% improvement in memory
 
-https://github.com/mukeshkumargupta/java-j2ee-projects-demo/tree/master/spring-batch-example-1-master Spring Boot with Spring Batch Example 1, Load CSV to DB http://localhost:8081/load - Trigger point for Spring Batch, http://localhost:8081/h2-console - H2 Console for querying the in-memory tables.
+### Tags: Kafka, Spark, Spring Boot, Spring Batch
+[https://github.com/mukeshkumargupta/java-j2ee-projects-demo/tree/master/spring-boot-kafka-example-master](https://github.com/mukeshkumargupta/java-j2ee-projects-demo/tree/master/message-queue) Using Spring boot, kafka producer and consumer is created. How to produce messages from command line and consume those messages from kafka consumer using spring boot and vice versa. Most of things are covered to start kafka based project using spring boot. To get details on code level, please refer the project link.
+
+[https://github.com/mukeshkumargupta/java-j2ee-projects-demo/tree/master/spring-batch-example-1-master](https://github.com/mukeshkumargupta/java-j2ee-projects-demo/tree/master/spring-batch) Spring Boot with Spring Batch Example 1, Load CSV to DB http://localhost:8081/load - Trigger point for Spring Batch, http://localhost:8081/h2-console - H2 Console for querying the in-memory tables.
 
 https://github.com/mukeshkumargupta/java-j2ee-projects-demo/tree/master/spark-java-example-master It is all about running Spark in Java.
 
 ### Tags: Docker, Kubernetes
-https://github.com/mukeshkumargupta/docker-projects-demo This is basic of docker. Here it is learned how to create image, use it.
+[https://github.com/mukeshkumargupta/docker-projects-demo](https://github.com/mukeshkumargupta/java-j2ee-projects-demo/tree/master/docker) This is basic of docker. Here it is learned how to create image, use it.
 
-https://github.com/mukeshkumargupta/kubernetes-projects-demo It is all about project demo related to k8s.
+[https://github.com/mukeshkumargupta/kubernetes-projects-demo](https://github.com/mukeshkumargupta/java-j2ee-projects-demo/tree/master/kubernetes) It is all about project demo related to k8s.
 
 ### Tags: Microservices
 https://github.com/mukeshkumargupta/java-j2ee-projects-demo/tree/master/spring-boot-microservices-workshop-master
@@ -32,7 +34,10 @@ movie info service and ratings data service are created to explain the things. P
 https://github.com/mukeshkumargupta/java-j2ee-projects-demo/tree/master/microservice-eureka-zuul-turbine-docker-project-demo
 Sample of a Microservice setup for my book. Based on Spring Cloud / Netflix / Java / Docker / Docker Compose / Docker Machine / Vagrant
 
-https://github.com/mukeshkumargupta/java-j2ee-projects-demo/tree/master/microservice-consul-master
+https://github.com/mukeshkumargupta/java-j2ee-projects-demo/tree/master/microservice-design-patterns 
+Microservice design patterns
+
+[https://github.com/mukeshkumargupta/java-j2ee-projects-demo/tree/master/microservice-consul-master](https://github.com/mukeshkumargupta/java-j2ee-projects-demo/tree/master/microservices)
 Sample of a Microservice setup for my book ported to Consul / Apache httpd. Based on Spring Cloud / Netflix / Java / Docker / Docker Compose / Docker Machine
 
 https://github.com/mukeshkumargupta/java-j2ee-projects-demo/tree/master/microservice-kubernetes-master
@@ -42,7 +47,7 @@ https://github.com/mukeshkumargupta/java-j2ee-projects-demo/tree/master/stock-pr
 If you want to create your own microservice using spring boot. You may refer this project. In this Part, we covered the below microservices: db-service - For interactive with MySQL DB, stock-service - For pulling Stock Price from YahooFinance API eureka-service - Service Registry for registering all microservices
 
 ### Tags: Spring Cloud Stream
-https://github.com/mukeshkumargupta/java-j2ee-projects-demo/tree/master/spring-cloud-stream-example-master Using this project demo, it is explained how to use spring cloud stream. Here like any messaging queue service you can easily change like Kafka or RabbitMQ by changing configuration, there is no need to change of major code if you decided to change your messaging queue service.
+[https://github.com/mukeshkumargupta/java-j2ee-projects-demo/tree/master/spring-cloud-stream-example-master](https://github.com/mukeshkumargupta/java-j2ee-projects-demo/tree/master/spring-cloud) Using this project demo, it is explained how to use spring cloud stream. Here like any messaging queue service you can easily change like Kafka or RabbitMQ by changing configuration, there is no need to change of major code if you decided to change your messaging queue service.
 
 ### Tags: Java, J2EE Concepts
 https://github.com/mukeshkumargupta/java-j2ee-projects-demo/tree/master/java-interview-questions-answers Here all Java fundamentals are explained.
