@@ -9,7 +9,7 @@ I have a passion for learning and sharing my knowledge with others as much as po
 This is an online shopping project using SpringMVC, Hibernate, Maven, Angular JS and Bootstrap. This project is done Step By Step. For more in details refer link: https://github.com/mukeshkumargupta/java-j2ee-tutorials/blob/master/design-online-shopping-cart/Project_Steps.txt.
 
 ### Tags: REST, GRPC
-https://github.com/mukeshkumargupta/java-j2ee-projects-demo/tree/master/design-users-profile-using-rest-apis-with-jax-rs
+[https://github.com/mukeshkumargupta/java-j2ee-projects-demo/tree/master/design-users-profile-using-rest-apis-with-jax-rs](https://github.com/mukeshkumargupta/java-j2ee-projects-demo)
 Under this project advance concept of REST are tried to used. user will able to submit his profile. Any user can send message to other user. Any user can comment on message(May be in future Like Vs Dislike on message as well as on comments can be implemented). Here Profile post/get/delete, message post/get/delete and comment post/get and delete are handled using REST API. For more details please refer the project.
 
 https://github.com/mukeshkumargupta/java-j2ee-projects-demo/tree/master/grpc Using GRPC 30% improvement in memory
@@ -53,11 +53,11 @@ If you want to create your own microservice using spring boot. You may refer thi
 https://github.com/mukeshkumargupta/java-j2ee-projects-demo/tree/master/java-interview-questions-answers Here all Java fundamentals are explained.
 
 ### Tags: System Designs
-https://github.com/mukeshkumargupta/data-structure-algorithms-java-tutorials/tree/master/src/com/interview/systemdesign
+[https://github.com/mukeshkumargupta/data-structure-algorithms-java-tutorials/tree/master/src/com/interview/systemdesign](https://github.com/mukeshkumargupta/data-structure-algorithms-java-tutorials/tree/master/src/main/java/com/interview/systemdesign)
 There are many standard problems which we need to know, I tried to document those standard industry system design practice which are required when you are going to design and architech project.
 
 ### Tags: Design Patterns
-https://github.com/mukeshkumargupta/data-structure-algorithms-java-tutorials/tree/master/src/com/interview/designpatterns
+[https://github.com/mukeshkumargupta/data-structure-algorithms-java-tutorials/tree/master/src/com/interview/designpatterns](https://github.com/mukeshkumargupta/data-structure-algorithms-java-tutorials/tree/master/src/main/java/com/interview/systemdesign/lowleveldesign/designpatterns)
 There are many standard design patterns. There are 22+ design pattern. Knowing which design pattern will be effective for use case problem. I tried to learn by example Java code for most of the design patterns. 
 
 ### Tags: DS & Algo 
